@@ -20,7 +20,7 @@
    * [[YES24]](http://www.yes24.com/Product/Goods/105422959)
    
 <p align="center">
-  <img src="img/Prime-DataML-cover1.png" width=400px>
+  <img src="img/Prime-DataML-cover1.png" width=500px>
 </p>
 
 
@@ -28,7 +28,10 @@
 * 으뜸 파이썬, 박동규, 강영민, 생능출판사 (2020) - 세종도서 학술부문 선정
    * [[YES24]](http://www.yes24.com/Product/Goods/89140722), [[인터파크]](http://book.interpark.com/product/BookDisplay.do?_method=detail&sc.shopNo=0000400000&sc.prdNo=330274507&pis1=book&pis2=product), [[교보문고]](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788970503691&orderClick=LEa&Kc=)
    * 으뜸 파이썬 github 저장소 : https://github.com/dongupak/Prime-Python
-   
+
+* (따라하며 배우는) 파이썬과 데이터 과학, 천인국, 박동규, 강영민, 생능출판사 (2020)
+  * [[YES24]](http://www.yes24.com/Product/Goods/96555988), [[인터파크]](http://book.interpark.com/product/BookDisplay.do?_method=detail&sc.shopNo=0000400000&sc.prdNo=345271510&sc.saNo=003002001&bid1=search&bid2=product&bid3=title&bid4=001), [[교보문고]](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788970504773&orderClick=LEa&Kc=) 
+
 * 으뜸 머신러닝, 강영민, 박동규, 김성수, 생능출판사 (2021)
    * [[YES24]](http://www.yes24.com/Product/Goods/102577953), [[인터파크]](http://book.interpark.com/product/BookDisplay.do?_method=detail&sc.shopNo=0000400000&sc.prdNo=352099030&sc.saNo=003002001&bid1=search&bid2=product&bid3=title&bid4=001), [[교보문고]](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788970504919&orderClick=LEa&Kc=)
    * 으뜸 머신러닝 github 저장소 : https://github.com/dknife/ML
@@ -55,11 +58,19 @@
 * 강의 PPT 자료 : https://booksr.co.kr/ 교수회원으로 로그인 후 강의자료 다운로드가 가능합니다.
 
 ### 사전 지식
-
-다음의 구글 colab 웹사이트에 접속하여(구글 계정이 필요함) 노트북 환경에서 파이썬 코딩을 할 수 있습니다.
+* 다음의 구글 colab 웹사이트에 접속하여(구글 계정이 필요함) 노트북 환경에서 파이썬 코딩을 할 수 있습니다.
    * https://colab.research.google.com/
 
-*** 
+### 도움이 될만한 동영상 강좌
+* 널널한 교수의 으뜸 파이썬 Youtube 강좌
+  * https://www.youtube.com/playlist?list=PL2P1Vm9k53HOflCAdyYaOx7hfBHydWNcL
+* 널널한 교수의 기초 파이썬 Youtube 강좌
+  * https://www.youtube.com/watch?v=TK6RLGaM3Ao&list=PL2P1Vm9k53HOEn-QYXAfblQWkR0OW9mKX
+* 널널한 교수의 고급 파이썬 Youtube 강좌
+  * https://www.youtube.com/watch?v=HYg_Zp1186M&list=PL2P1Vm9k53HMUI3i_UKRfWc3ePzAVerhc
+* "따라하며 배우는 파이썬과 데이터 과학(2020 출판)" Youtube 강좌
+  * https://www.youtube.com/playlist?list=PL2P1Vm9k53HOD_lesbnzAS51t71QeOPms
+
 # 책의 LAB과 연습문제 정답지 제공에 관하여
 
 이 책에는 많은 LAB문제와 연습문제가 제공됩니다. 저자들이 모든 문제에 대해 답을 만들어 보았지만, 이것은 문제의 유효성을 검증하기 위한 것일 뿐입니다.  
