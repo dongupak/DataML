@@ -17,7 +17,12 @@
 ***
 ## 책 구매(온라인 서적)
 * 으뜸 데이터 분석과 머신러닝, 박동규, 강영민, 생능출판사 (2021)
-   * [[YES24]](http://www.yes24.com/Product/Goods/105422959), 
+   * [[YES24]](http://www.yes24.com/Product/Goods/105422959)
+   
+<p align="center">
+  <img src="img/Prime-DataML-cover1.png" width=400px>
+</p>
+
 
 ## 함께 보면 더 좋은 책
 * 으뜸 파이썬, 박동규, 강영민, 생능출판사 (2020) - 세종도서 학술부문 선정
@@ -27,10 +32,6 @@
 * 으뜸 머신러닝, 강영민, 박동규, 김성수, 생능출판사 (2021)
    * [[YES24]](http://www.yes24.com/Product/Goods/102577953), [[인터파크]](http://book.interpark.com/product/BookDisplay.do?_method=detail&sc.shopNo=0000400000&sc.prdNo=352099030&sc.saNo=003002001&bid1=search&bid2=product&bid3=title&bid4=001), [[교보문고]](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788970504919&orderClick=LEa&Kc=)
    * 으뜸 머신러닝 github 저장소 : https://github.com/dknife/ML
-   
-<p align="center">
-  <img src="img/Prime-DataML-cover1.png" width=400px>
-</p>
 
 ***
 # 책의 목차
@@ -50,7 +51,7 @@
 : "으뜸 데이터 분석과 머신러닝" 책의 소스코드가 .ipynb, colab 페이지를 통해서 제공됩니다
 
 # 강의 계획서와 PPT
-• 강의 계획서 - 향후 제공됩니다.
+* 강의 계획서 - 향후 제공됩니다.
 * 강의 PPT 자료 : https://booksr.co.kr/ 교수회원으로 로그인 후 강의자료 다운로드가 가능합니다.
 
 ### 사전 지식
