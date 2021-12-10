@@ -29,7 +29,7 @@
    * 으뜸 머신러닝 github 저장소 : https://github.com/dknife/ML
    
 <p align="center">
-  <img src="img/Prime-DataML-cover1.png" width=200px>
+  <img src="img/Prime-DataML-cover1.png" width=400px>
 </p>
 
 ***
