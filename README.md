@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="img/Prime-DataML-cover1.png" width=500px>
+</p>
+
 # 이 저장소는 "생능 출판사"의 "으뜸 데이터 분석과 머신러닝(2021 출판)" 저장소입니다.
 ## 이 책의 프로그램 코드와 다양한 자료를 제공합니다.
 
@@ -18,11 +22,7 @@
 ## 책 구매(온라인 서적)
 * 으뜸 데이터 분석과 머신러닝, 박동규, 강영민, 생능출판사 (2021)
    * [[YES24]](http://www.yes24.com/Product/Goods/105422959)
-   
-<p align="center">
-  <img src="img/Prime-DataML-cover1.png" width=500px>
-</p>
-
+   * [[인터파크]](http://http://book.interpark.com/product/BookDisplay.do?_method=detail&sc.shopNo=0000400000&sc.prdNo=354325192&pis1=book&pis2=product)
 
 ## 함께 보면 더 좋은 책
 * 으뜸 파이썬, 박동규, 강영민, 생능출판사 (2020) - 세종도서 학술부문 선정
