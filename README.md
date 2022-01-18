@@ -26,8 +26,8 @@
 
 ## 책 구매(온라인 서적)
 * 으뜸 데이터 분석과 머신러닝 PDF(샘플)
-* [PDF](https://github.com/dongupak/DataML/blob/master/으뜸 데이터 분석과 머신러닝_샘플챕터.pdf)
-* 
+   * [PDF](https://github.com/dongupak/DataML/blob/master/으뜸데이터분석과머신러닝_샘플챕터.pdf)
+
 ## 함께 보면 더 좋은 책
 * 으뜸 파이썬, 박동규, 강영민, 생능출판사 (2020) - 세종도서 학술부문 선정
    * [[YES24]](http://www.yes24.com/Product/Goods/89140722), [[인터파크]](http://book.interpark.com/product/BookDisplay.do?_method=detail&sc.shopNo=0000400000&sc.prdNo=330274507&pis1=book&pis2=product), [[교보문고]](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788970503691&orderClick=LEa&Kc=)
