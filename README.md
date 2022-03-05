@@ -46,9 +46,9 @@
 : 책의 목차를 제공합니다.
 
 # 책의 오류 및 오탈자
-* [오류](https://github.com/dongupak/DataML/blob/master/errata-ver1.md)
+* [1판 1쇄의 오류](https://docs.google.com/document/d/1I_BfHBIW2s98u8QT11CVWLx72BIhDT-a-AYFEEp3WMU/edit?usp=sharing)
 : 책의 오탈자 목록을 제공합니다.
-책의 오류는 다음 이메일로 알려주십시오.
+이 목록에 없는 책의 오류는 다음 이메일로 알려주십시오.
 ```
     dongupak@gmail.com
 ```
