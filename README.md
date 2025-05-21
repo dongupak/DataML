@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/Prime-DataML-cover1.png" width=650px>
+  <img src="img/Prime-DataML-cover2.jpg" width=650px>
 </p>
 
 # 이 저장소는 "생능 출판사"의 "으뜸 데이터 분석과 머신러닝(2021 출판)" 저장소입니다.
