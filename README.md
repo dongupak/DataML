@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="img/Prime-DataML-cover2.jpg" width=650px>
+  <img src="img/Prime-DataML-cover2.jpg" width=40px>
 </p>
 
-# 이 저장소는 "생능 출판사"의 "으뜸 데이터 분석과 머신러닝(2021 출판)" 저장소입니다.
+# 이 저장소는 "생능 출판사"의 "으뜸 데이터 분석과 머신러닝(2021 출판)"과 "으뜸 데이터 분석과 머신러닝 개정판(2024 출판)" 저장소입니다.
 ## 이 책의 프로그램 코드와 다양한 자료를 제공합니다.
 
 안녕하세요 독자 여러분 이곳은 이 책의 중요한 정보,소스코드와 주피터 노트북 파일, colab 주소, 정오표등 다양한 자료와 정보를 업로드할 예정입니다.
@@ -16,29 +16,23 @@
 #### 3. 데이터에 대한 시각적 직관을 얻을 수 있는 맷플롯립, 시본을 상세히 설명합니다.
 #### 4. 사이킷런 라이브러리로 머신러닝의 원리를 알려줍니다.
 #### 5. 선형회귀, k-NN 알고리즘, 서포트 벡터 머신, 결정 트리의 원리를 쉽게 설명합니다.
-#### 6. 텐서플로 2.0을 이용하여 심층 신경망과 합성곱 신경망을 구현해 봅니다.
 
 ***
 ## 책 구매(온라인 서적)
-* 으뜸 데이터 분석과 머신러닝, 박동규, 강영민, 생능출판사 (2021)
-   * [[YES24]](http://www.yes24.com/Product/Goods/105422959)
-   * [[인터파크]](http://http://book.interpark.com/product/BookDisplay.do?_method=detail&sc.shopNo=0000400000&sc.prdNo=354325192&pis1=book&pis2=product)
-
-## 책 구매(온라인 서적)
-* 으뜸 데이터 분석과 머신러닝 PDF(샘플)
-   * [으뜸 데이터 분석과 머신러닝 PDF](https://github.com/dongupak/DataML/blob/master/으뜸데이터분석과머신러닝_샘플챕터.pdf)
+* 으뜸 데이터 분석과 머신러닝, 박동규, 강영민, 생능출판사 (2024)
+   * [[YES24]](http://www.yes24.com/Product/Goods/139931427)
+   
+## 으뜸 데이터 분석과 머신러닝 1판 샘플 PDF
+* [으뜸 데이터 분석과 머신러닝 1판 샘플 PDF](https://github.com/dongupak/DataML/blob/master/으뜸데이터분석과머신러닝_샘플챕터.pdf)
 
 ## 함께 보면 더 좋은 책
-* 으뜸 파이썬, 박동규, 강영민, 생능출판사 (2020) - 세종도서 학술부문 선정
-   * [[YES24]](http://www.yes24.com/Product/Goods/89140722), [[인터파크]](http://book.interpark.com/product/BookDisplay.do?_method=detail&sc.shopNo=0000400000&sc.prdNo=330274507&pis1=book&pis2=product), [[교보문고]](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788970503691&orderClick=LEa&Kc=)
+* 으뜸 파이썬 개정판, 박동규, 강영민, 생능출판사 (2024) - 세종도서 학술부문 선정
+   * [[YES24]](http://www.yes24.com/Product/Goods/127086641)
    * 으뜸 파이썬 github 저장소 : https://github.com/dongupak/Prime-Python
 
-* (따라하며 배우는) 파이썬과 데이터 과학, 천인국, 박동규, 강영민, 생능출판사 (2020)
-  * [[YES24]](http://www.yes24.com/Product/Goods/96555988), [[인터파크]](http://book.interpark.com/product/BookDisplay.do?_method=detail&sc.shopNo=0000400000&sc.prdNo=345271510&sc.saNo=003002001&bid1=search&bid2=product&bid3=title&bid4=001), [[교보문고]](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788970504773&orderClick=LEa&Kc=) 
-
-* 으뜸 머신러닝, 강영민, 박동규, 김성수, 생능출판사 (2021)
-   * [[YES24]](http://www.yes24.com/Product/Goods/102577953), [[인터파크]](http://book.interpark.com/product/BookDisplay.do?_method=detail&sc.shopNo=0000400000&sc.prdNo=352099030&sc.saNo=003002001&bid1=search&bid2=product&bid3=title&bid4=001), [[교보문고]](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788970504919&orderClick=LEa&Kc=)
-   * 으뜸 머신러닝 github 저장소 : https://github.com/dknife/ML
+* (따라하며 배우는) 파이썬과 데이터 과학 개정판, 천인국, 박동규, 강영민, 생능출판사 (2024)
+  * [[YES24]](http://www.yes24.com/Product/Goods/123677210)
+  * 따라하며 배우는 파이썬과 데이터 과학 github 저장소 : https://github.com/dongupak/DataSciPy
 
 ***
 # 책의 목차
@@ -87,6 +81,9 @@
 * **강 영민** - *동명대학교 게임공학과 교수* 
   * [강영민교수 저장소](https://github.com/dknife)
   * 이메일 : young.min.kang@gmail.com
+* **김 병욱** - *창원대학교 정보통신공학과 교수*
+  * [웹](https://acsl.creatorlink.net/) 
+  * 이메일 : bwkim@changwon.ac.kr
   
 ## 저작권
 * 이 코드의 소유권은 모든 저자에게 있으나 비상업적 용도에 한해 자유롭게 이용가능하며 재배포 가능합니다.
