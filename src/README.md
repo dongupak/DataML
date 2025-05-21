@@ -1,3 +1,6 @@
+# 으뜸 데이터분석과 머신러닝 학습자용 ipynb소스 코드 
+https://github.com/dongupak/DataML/tree/main/src/ipynb
+
 # 으뜸 데이터분석과 머신러닝 소스 코드 - 코랩 접속 주소
 
 ### 1장 소스 코드 : 빅데이터와 데이터 분석의 중요성
