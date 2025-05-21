@@ -18,7 +18,7 @@ https://colab.research.google.com/drive/1M7GU_YXjx_wv0pGEtH_Eow4DIm1gWtDg?usp=sh
 https://colab.research.google.com/drive/17ahSETcPCyNuWp3q9sS4Bp275_XDyrWW?usp=sharing
 
 ### 7장 소스 코드 : 머신러닝 기초 : 사이킷런과 선형 회귀
-https://colab.research.google.com/drive/1EHEemQCEFy58PiUNmHZAfvudy2XQkAUt?usp=sharing
+https://drive.google.com/file/d/1rr6fyCRTUw_tVWn-xToPpWOHZN9xeVSZ/view?usp=sharing
 
 ### 8장 소스 코드 : 다중 회귀와 규제
 https://colab.research.google.com/drive/1vMKbbQ_zXyme-zkBrPgR1PM71FrmvOK4?usp=sharing
